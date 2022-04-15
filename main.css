@@ -8,13 +8,13 @@
   color: white;
 }
 
-.dog {
+.profilepic {
   display: flex;
   justify-content: center;
 
 }
 
-.dog img {
+.profilepic img {
   border-radius: 100%;
   width: 10em;
 }
@@ -42,6 +42,7 @@
 	width: 100%;
   padding-top: 2em;
 }
+
 
 .btn-primary {
   font-family: 'Courier New', Courier, monospace;
